@@ -19,20 +19,20 @@ bio: Im a PhD Candidate in International Studies. My research interests are stat
 # Interests to show in About widget
 interests:
 - Contentious Politics
-- Repression / Dissent
+- Repression & Dissent
 - Formal Models
 
 # Education to show in About widget
 education:
   courses:
-  - course: 
-    institution: 
+  - course: PhD in International Studies
+    institution: Josef Korbel School of International Studies, University of Denver
     year: 
-  - course: 
-    institution: 
+  - course: MA in International Studies
+    institution: Josef Korbel School of International Studies, University of Denver
     year: 
-  - course: 
-    institution: 
+  - course: BA in Political Science
+    institution: Galatasaray University
     year: 
 
 # Social/Academic Networking
