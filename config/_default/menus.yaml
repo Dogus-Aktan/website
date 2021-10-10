@@ -9,19 +9,19 @@ main:
     weight: 10
 
   - name: Research
-    url: '#projects'
+    url: 'research/'
     weight: 30
 
   - name: Teaching
-    url: '#teaching'
+    url: 'teaching/'
     weight: 40
 
   - name: Reading Group
-    url: '#book'
+    url: 'book/'
     weight: 60
 
-  - name: CV
-    url: '#CV'
+  - name: "CV"
+    url: "cv/"
     weight: 80
 
   #- name: Contact

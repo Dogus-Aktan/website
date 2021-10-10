@@ -1,7 +1,7 @@
 ---
-title: Book Club
-
-
+title: CV
+summary: ""
+date: ""
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -12,6 +12,6 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
----
 
-I run the Korbel PhD Reading Group.
+---
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}

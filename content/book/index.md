@@ -1,13 +1,7 @@
 ---
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 100
-
-title: CV
-
-
+title: Korbel PhD Reading Group
+summary: ""
+date: ""
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -18,6 +12,6 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
----
 
-Download my CV here.
+---
+I run the PhD-level reading group with Professor [Jack Donnelly](https://jackdonnelly.org/), where we focus on recent contributions to International Relations theory, and epistemology. 

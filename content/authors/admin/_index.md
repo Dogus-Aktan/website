@@ -21,6 +21,7 @@ interests:
 - Contentious Politics
 - Repression & Dissent
 - Formal Models
+- Civil Resistance
 
 # Education to show in About widget
 education:
@@ -61,7 +62,7 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
 ---
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
