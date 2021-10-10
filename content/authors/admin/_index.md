@@ -66,3 +66,8 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 ---
+My research uses formal models to explore dynamics of contentious politics and repression & dissent nexus. Read more about my research [here]({{< ref "research/index.md" >}}).
+
+I am an [EITM](https://eitminstitute.org/) institute alumni (2019), and a former [USIP Peace Scholar](https://www.usip.org/grants-fellowships/fellowships/peace-scholar-fellowship-program) (2020-2021).
+
+For more information about my teaching, see [here]({{< ref "teaching/index.md" >}}).
