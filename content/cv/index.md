@@ -14,4 +14,4 @@ header:
   image: ""
 
 ---
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/DAktan-CV.pdf" "newtab" >}}CV{{< /staticref >}}
