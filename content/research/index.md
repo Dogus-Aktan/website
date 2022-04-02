@@ -18,9 +18,9 @@ header:
 
  ## **Working Papers**
 
-**How Does Violence Deter? Functional and Informational Effects of Preemptive Repression** [Virtual Poster](apsa2021-apsa.ipostersessions.com/Default.aspx?s=A2-92-37-3B-FB-FE-BB-AB-2B-6E-8D-D1-2B-21-2B-1D)
+**How Does Violence Deter? Functional and Informational Effects of Preemptive Repression** [Latest Version]{{< staticref "uploads/Preemption.pdf" "newtab" >}}{{< /staticref >}}
 
-**Signaling, Screening, and Repression in Contentious Politics** 
+**Signaling, and Screeningin Contentious Politics** [Latest Version]{{< staticref "uploads/Screening.pdf" "newtab" >}}{{< /staticref >}}
 
 **Civil Resistance or Calling on the Big Brother? A Model of Limited Protests in Authoritarian Regimes** 
 
