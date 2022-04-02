@@ -18,7 +18,7 @@ header:
 
  ## **Working Papers**
 
-**How Does Violence Deter? Functional and Informational Effects of Preemptive Repression**  ({{< staticref "uploads/Preemption.pdf" "newtab" >}}Latest Version{{< /staticref >}})\
+**How Does Violence Deter? Functional and Informational Effects of Preemptive Repression**  {{< staticref "uploads/Preemption.pdf" "newtab" >}}Latest Version{{< /staticref >}}
 
 **Signaling, and Screening in Contentious Politics** ({{< staticref "uploads/Screening.pdf" "newtab" >}}Latest Version{{< /staticref >}})\
 
