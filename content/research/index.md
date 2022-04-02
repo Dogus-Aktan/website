@@ -20,7 +20,7 @@ header:
 
 **How Does Violence Deter? Functional and Informational Effects of Preemptive Repression**  {{< staticref "uploads/Preemption.pdf" "newtab" >}}Latest Version{{< /staticref >}}
 
-**Signaling, and Screening in Contentious Politics** ({{< staticref "uploads/Screening.pdf" "newtab" >}}Latest Version{{< /staticref >}})\
+**Signaling, and Screening in Contentious Politics** ({{< staticref "uploads/Screening.pdf" "newtab" >}}Latest Version{{< /staticref >}})
 
 **Civil Resistance or Calling on the Big Brother? A Model of Limited Protests in Authoritarian Regimes** 
 
