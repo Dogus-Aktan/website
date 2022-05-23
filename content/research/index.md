@@ -26,7 +26,7 @@ Literature on contention and repression overwhelmingly assumes that contentious 
 </details>
 
 
-**How Does Violence Deter? Functional and Informational Effects of Preemptive Repression** (Under review) 
+**How Does Violence Deter? Functional and Informational Effects of Preemptive Repression** (Under review)
 {{< staticref "uploads/Preemption.pdf" "newtab" >}}Latest Version{{< /staticref >}} 
 <details>
 <summary>Abstract</summary>
