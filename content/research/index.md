@@ -18,11 +18,12 @@ header:
 
  ## **Working Papers**
 
- **Signaling and Screening in Contentious Politics** (Under review) {{< staticref "uploads/Screening.pdf" "newtab" >}} Latest Version {{< /staticref >}}
+ **Signaling and Screening in Contentious Politics** (Under review) 
+ 
+ {{< staticref "uploads/Screening.pdf" "newtab" >}} Latest Version {{< /staticref >}}
 
- <details>
+<details>
 <summary>Abstract</summary>
-<br>
 Literature on contention and repression overwhelmingly assumes that contentious politics is a zero-sum game and the goal of repression is to subdue all protests. This approach ignores that contentious action provides information about grievances which are costly to ignore for the government. I develop a formal model of contentious politics where activists use protests to signal their grievances as well as impose costs on the government. The model shows that repression can have a screening purpose. Governments use coercion to set the terms of contention so that they only have to accommodate sufficiently aggrieved and salient groups, while filtering out the rest. The model also demonstrates that decreased cost of mobilization makes repression indirectly cheaper for governments, leading to more repression. Taken together, these findings provide a theoretical explanation for the inconsistent findings in the empirical literature on contention and repression. Finally, the results provide an explanation for why rational governments would resort to repression only to follow it with accommodation.
 </details>
 
