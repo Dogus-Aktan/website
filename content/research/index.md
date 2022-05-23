@@ -18,10 +18,10 @@ header:
 
  ## **Working Papers**
 
-**How Does Violence Deter? Functional and Informational Effects of Preemptive Repression**  {{< staticref "uploads/Preemption.pdf" "newtab" >}}Latest Version{{< /staticref >}}
+ **Signaling, and Screening in Contentious Politics** (Under review) {{< staticref "uploads/Screening.pdf" "newtab" >}} Latest Version {{< /staticref >}}
 
-**Signaling, and Screening in Contentious Politics** {{< staticref "uploads/Screening.pdf" "newtab" >}}Latest Version{{< /staticref >}}
+**How Does Violence Deter? Functional and Informational Effects of Preemptive Repression** (Under review) {{< staticref "uploads/Preemption.pdf" "newtab" >}}Latest Version{{< /staticref >}}
+
+**Ignoring or Responding to Protests** (Under review){{< staticref "uploads/Ignoring.pdf" "newtab" >}}Latest Version{{< /staticref >}}
 
 **Civil Resistance or Calling on the Big Brother? A Model of Limited Protests in Authoritarian Regimes** 
-
-**When Ignoring is not an Option: Informational Effects of Protest** 
