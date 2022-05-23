@@ -19,7 +19,7 @@ I have taught introductionary and advanced (300-level) courses for undergraduate
 ### **Primary Instructor**
 
 #### **Undergraduate Classes**
-Globalization and Knowledge Economy (Ongoing) \
+Globalization and Knowledge Economy ({{< staticref "uploads/INTS-2370.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
 Major Issues in International Security ({{< staticref "uploads/INTS-3215.pdf" "newtab" >}}Syllabus{{< /staticref >}})\
 Contemporary Issues in Political Economy ({{< staticref "uploads/INTS-1500.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
 Dragons, Mutants, and Drug Dealers: Advanced Topics in IR and IPE through Pop Culture ({{< staticref "uploads/INTS-3703.pdf" "newtab" >}}Syllabus{{< /staticref >}}) 
