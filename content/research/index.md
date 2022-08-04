@@ -18,7 +18,7 @@ header:
 
  ## **Working Papers**
 
- **Signaling and Screening in Contentious Politics** (Under review)  
+ **Signaling and Screening in Contentious Politics** (R & R at Journal of Conflict of Resolution)  
  {{< staticref "uploads/Screening.pdf" "newtab" >}} Latest Version {{< /staticref >}} <details>
 <summary>Abstract</summary>
 <br>
