@@ -6,15 +6,15 @@ title: Dogus Aktan
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Denver / Josef Korbel School of International Studies
+- name: University of Kentucky / Department of Political Science
   url: ''''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Im a PhD Candidate in International Studies. My research interests are state repression, contentious politics, and formal models. 
+bio: Im a Postdoc at the University of Kentucky. My research interests are state repression, contentious politics, and formal models. 
 
 # Interests to show in About widget
 interests:
@@ -66,7 +66,7 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 ---
-My research uses formal models to explore dynamics of contentious politics and repression & dissent nexus. Read more about my research [here]({{< ref "research/index.md" >}}).
+My research uses formal model and computational models to explore dynamics of contentious politics and repression & dissent nexus. Read more about my research [here]({{< ref "research/index.md" >}}).
 
 I am an [EITM](https://eitminstitute.org/) institute alumni (2019), and a former [USIP Peace Scholar](https://www.usip.org/grants-fellowships/fellowships/peace-scholar-fellowship-program) (2020-2021).
 
