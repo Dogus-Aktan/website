@@ -6,15 +6,15 @@ title: Dogus Aktan
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Scholar
+role: Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Kentucky / Department of Political Science
+- name: Rice University / Department of Political Science
   url: ''''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Im a Postdoc at the University of Kentucky. My research interests are state repression, contentious politics, and formal models. 
+bio: Im a Lecturer at Rice University. My research interests are state repression, contentious politics, and formal models. 
 
 # Interests to show in About widget
 interests:

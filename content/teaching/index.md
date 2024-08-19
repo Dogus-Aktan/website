@@ -14,17 +14,21 @@ header:
   image: ""
 
 ---
-I have taught introductionary and advanced (300-level) courses for undergraduates. I have also run workshops on the basics of mathematics and causal inference for graduate students. 
+I have taught introductionary and advanced courses for undergraduates. I have also run workshops on the basics of mathematics and causal inference for graduate students. 
 
 ### **Primary Instructor**
 
 #### **Undergraduate Classes**
 
+### **Rice University**
+Intro to Comparative Politics ({{< staticref "uploads/Poli_212.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
+Applied Research Methods ({{< staticref "uploads/Poli_395.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
+
 ### **University of Kentucky**
 Conduct of American Foreign Relations ({{< staticref "uploads/US-FP.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
 International Organizations ({{< staticref "uploads/IOs.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
 Honors Thesis in Political Science ({{< staticref "uploads/Honors.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
-International Political Economy
+International Political Economy ({{< staticref "uploads/IPE_Syllabus.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
 
 ### **University of Denver**
 Globalization and Knowledge Economy ({{< staticref "uploads/INTS-2370.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
