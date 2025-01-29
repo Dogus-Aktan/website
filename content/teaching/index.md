@@ -21,14 +21,16 @@ I have taught introductionary and advanced courses for undergraduates. I have al
 #### **Undergraduate Classes**
 
 ### **Rice University**
+Protest and Political Violence ({{< staticref "uploads/Poli_471_2025_Aktan.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
+Intro to International Relations ({{< staticref "uploads/Poli_211_2025_Aktan.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
 Intro to Comparative Politics ({{< staticref "uploads/Poli_212.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
-Applied Research Methods ({{< staticref "uploads/Poli_395.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
+Applied Research Methods ({{< staticref "uploads/Poli_395_2025_Aktan.pdf" "newtab" >}}Syllabus{{< /staticref >}}) 
 
 ### **University of Kentucky**
 Conduct of American Foreign Relations ({{< staticref "uploads/US-FP.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
 International Organizations ({{< staticref "uploads/IOs.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
 Honors Thesis in Political Science ({{< staticref "uploads/Honors.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
-International Political Economy ({{< staticref "uploads/IPE_Syllabus.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \
+International Political Economy ({{< staticref "uploads/IPE_Syllabus.pdf" "newtab" >}}Syllabus{{< /staticref >}}) 
 
 ### **University of Denver**
 Globalization and Knowledge Economy ({{< staticref "uploads/INTS-2370.pdf" "newtab" >}}Syllabus{{< /staticref >}}) \

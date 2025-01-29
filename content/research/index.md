@@ -16,9 +16,21 @@ header:
 ---
  I focus on using formal theory to parse out different mechanisms through which mass movements and political violence work, with a goal to develop links between theory and empirics. Put differently, I am interested in *how* social movements and governments achieve their goals when pursuing contentious action or violence. 
 
+## **Publications**
+
+
+**How Does Violence Deter? Functional and Informational Effects of Preemptive Repression** (Forthcoming at Journal of Peace Research)
+{{< staticref "uploads/Preemption_JPR.pdf" "newtab" >}}Journal Version{{< /staticref >}} 
+<details>
+<summary>Abstract</summary>
+<br>
+Research on the relationship between repression and dissent has mostly ignored the mechanisms through which repression affects dissent. I distinguish two distinct channels through which repression can deter dissidents. First, preemptive repression works through a functional channel by directly reducing the opposition's capabilities. Second, the severity of preemptive repression provides information to its target about the strength of government.I use a formal model to demonstrate how these two channels interact, leading to strategic behavior that has not been discussed in previous work. In particular, I show that the functional and informational channels are not necessarily complementary. The model demonstrates that uncertainty about government resolve can both increase or decrease observed repression. It also shows that repression can become more effective in deterring dissent when it is more costly and vice versa. Taken together, these results provide a theoretical explanation for the inconsistent empirical findings on the effect of repression on dissent and offer a framework for future research.
+</details>
+
+
  ## **Working Papers**
 
- **Signaling and Screening in Contentious Politics** (R & R at Journal of Conflict of Resolution)  
+ **Signaling and Screening in Contentious Politics**  
  {{< staticref "uploads/Screening.pdf" "newtab" >}} Latest Version {{< /staticref >}} <details>
 <summary>Abstract</summary>
 <br>
@@ -26,15 +38,7 @@ Literature on contention and repression overwhelmingly assumes that contentious 
 </details>
 
 
-**How Does Violence Deter? Functional and Informational Effects of Preemptive Repression** (R & R at Conflict Management and Peace Science)
-{{< staticref "uploads/Preemption.pdf" "newtab" >}}Latest Version{{< /staticref >}} 
-<details>
-<summary>Abstract</summary>
-<br>
-Research on the relationship between repression and dissent has mostly ignored the mechanisms through which repression affects dissent. I distinguish two distinct channels through which repression can deter dissidents. First, preemptive repression works through a functional channel by reducing the opposition's capabilities. Second, the severity of preemptive repression provides information to its target about the strength of government. I use a formal model to demonstrate how these two distinct channels interact, how they can together change the severity and effect of repression. The model illustrates how the informational and functional channels together modify the aggregate effect of observed repression, and can make it both more or less effective in deterring dissent.
-</details>
-
-**Ignoring or Responding to Protests** (Under review)
+**Ignoring or Responding to Protests** 
 {{< staticref "uploads/Ignoring.pdf" "newtab" >}} Latest Version{{< /staticref >}}
  <details>
 <summary>Abstract</summary>
