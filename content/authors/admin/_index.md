@@ -14,7 +14,7 @@ role: "Lecturer"
 
 organizations:
 
-* name: "Department of Political Science, Rice University"
+- name: "Department of Political Science, Rice University"
   url: "https://politicalscience.rice.edu/"
 
 # Short biography displayed in the author profile
@@ -25,42 +25,42 @@ bio: "I am a Lecturer at Rice University. I use formal and computational models 
 
 interests:
 
-* "Contentious Politics"
-* "Repression & Dissent"
-* "Formal & Computational Models"
-* "Civil Resistance"
+- "Contentious Politics"
+- "Repression & Dissent"
+- "Formal & Computational Models"
+- "Civil Resistance"
 
 # Education
 
 education:
-courses:
-- course: "PhD in International Studies"
-institution: "Josef Korbel School of International Studies, University of Denver"
-year: ""
-- course: "MA in International Studies"
-institution: "Josef Korbel School of International Studies, University of Denver"
-year: ""
-- course: "BA in Political Science"
-institution: "Galatasaray University"
-year: ""
+  courses:
+  - course: "PhD in International Studies"
+    institution: "Josef Korbel School of International Studies, University of Denver"
+    year: ""
+  - course: "MA in International Studies"
+    institution: "Josef Korbel School of International Studies, University of Denver"
+    year: ""
+  - course: "BA in Political Science"
+    institution: "Galatasaray University"
+    year: ""
 
 # Social and academic links
 
 social:
 
-* icon: "envelope"
+- icon: "envelope"
   icon_pack: "fas"
   link: "mailto:dogusaktan@gmail.com"
 
-* icon: "twitter"
+- icon: "twitter"
   icon_pack: "fab"
   link: "https://twitter.com/Djimbownage"
 
-* icon: "graduation-cap"
+- icon: "graduation-cap"
   icon_pack: "fas"
   link: "https://scholar.google.com/citations?user=Fto6zSMAAAAJ&hl=en"
 
-* icon: "cv"
+- icon: "cv"
   icon_pack: "ai"
   link: "/uploads/Academic_CV.pdf"
 
@@ -70,7 +70,9 @@ email: ""
 
 # Highlight this author in publication lists
 
-## highlight_name: true
+highlight_name: true
+
+---
 
 I am a Lecturer in the Department of Political Science at Rice University.
 
